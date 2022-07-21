@@ -9,6 +9,8 @@ Une explication de la démarche de construction des modèles et de leur évaluat
 
 La compétition entre les différents modèles se trouve dans le notebook [Modèles et Evaluations](https://github.com/SanaeSaccomano/Machine-Learning/blob/main/Pr%C3%AAt%20ou%20Partez%20%3F/Mod%C3%A8les%20et%20Evaluations.ipynb)
 
+L'interprétation globale et locale des modèles se trouve dans le notebook [Prêt ou Partez](https://github.com/SanaeSaccomano/Machine-Learning/blob/main/Pr%C3%AAt%20ou%20Partez%20%3F/Pr%C3%AAt%20ou%20Partez.ipynb)
+
 Un coup d'oeil au projet se trouve au sein de la présentation [Dans la poche](https://github.com/SanaeSaccomano/Machine-Learning/blob/main/Pr%C3%AAt%20ou%20Partez%20%3F/Dans%20la%20Poche.pdf)
  
 ## Compétences
