@@ -12,7 +12,7 @@ La compétition entre les différents modèles se trouve dans le notebook [Modè
 Un coup d'oeil au projet se trouve au sein de la présentation [Dans la poche](https://github.com/SanaeSaccomano/Machine-Learning/blob/main/Pr%C3%AAt%20ou%20Partez%20%3F/Dans%20la%20Poche.pdf)
  
 ## Compétences
-- Transformer les variables pertinentes
+- Transformer et créer des variables pertinentes
 - Créer des critères pertinents d'évaluation des modèles d'apprentissage supervisés de classification
 - Entraîner des modèles d'apprentissage supervisés de classification linéaires et non-linéaires
 - Adapter les hyperparamètres d'un modèle d'apprentissage supervisé
