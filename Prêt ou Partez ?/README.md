@@ -51,6 +51,7 @@ Les critères sur lesquels ont été évalués les modèles sont les suivants :
 - imblearn
 - xgboost
 - lightgbm
+- shap
 
 
 *Note : les fonctions personnelles de ce projet ne sont pas explicitées pour des raisons de confidentialité mais sont expliquées dès leur premier appel dans le script.*
