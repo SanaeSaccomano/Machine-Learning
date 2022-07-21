@@ -69,3 +69,7 @@ python jupyter-notebook beautiful-data roc-curve
 
 ![Extrait_03](https://user-images.githubusercontent.com/91669852/180171133-3a7d7836-f992-472f-8608-8444db7a1a16.png)
 
+![Extrait_06](https://user-images.githubusercontent.com/91669852/180206190-05a1500b-d6f7-4682-8d05-eec1f095876c.PNG)
+
+![Extrait_05](https://user-images.githubusercontent.com/91669852/180206205-72f66989-0370-43fe-bc5d-88a8655d41a6.PNG)
+
